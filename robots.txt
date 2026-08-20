@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-djj482.privatetalks.online/sitemap.xml
